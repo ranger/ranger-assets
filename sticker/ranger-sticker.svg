@@ -117,9 +117,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="80.422032"
-     inkscape:cy="150.34892"
+     inkscape:zoom="1"
+     inkscape:cx="79.878947"
+     inkscape:cy="164.34266"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -151,18 +151,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.15714645px;line-height:125%;font-family:Ultra;-inkscape-font-specification:Ultra;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:#3f1900;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="10.880456"
-       y="899.65057"
+       y="900.58551"
        id="text4325"
        sodipodi:linespacing="125%"
        transform="scale(0.92557156,1.0804135)"><tspan
          sodipodi:role="line"
          id="tspan4327"
          x="10.880456"
-         y="899.65057"
+         y="900.58551"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Ultra;-inkscape-font-specification:Ultra;letter-spacing:-1.22000003px;stroke:#3f1900;stroke-width:2.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ranger</tspan></text>
     <g
        id="g6383"
-       transform="matrix(2.647718,0,0,2.7093755,10.6905,-1904.5567)">
+       transform="matrix(2.647718,0,0,2.7093755,10.6905,-1903.5465)">
       <path
          sodipodi:nodetypes="ssccssscss"
          inkscape:connector-curvature="0"
@@ -178,30 +178,20 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47217751px;line-height:100%;font-family:'Chica Mono';-inkscape-font-specification:'Chica Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="97.44931"
-       y="1004.3124"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.47217751px;line-height:109.00000334%;font-family:'Chica Mono';-inkscape-font-specification:'Chica Mono';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="99.209885"
+       y="1015.5993"
        id="text6409"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="109%"><tspan
          sodipodi:role="line"
-         id="tspan6411"
-         x="97.44931"
-         y="1004.3124"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00000191px;line-height:100%;font-family:'White Rabbit';-inkscape-font-specification:'White Rabbit';text-align:center;text-anchor:middle">The file manager</tspan><tspan
+         x="99.209885"
+         y="1015.5993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.50000191px;line-height:109.00000334%;font-family:Piedra;-inkscape-font-specification:Piedra;text-align:center;letter-spacing:0px;text-anchor:middle"
+         id="tspan6599">original texas</tspan><tspan
          sodipodi:role="line"
-         x="97.44931"
-         y="1024.3124"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00000191px;line-height:100%;font-family:'White Rabbit';-inkscape-font-specification:'White Rabbit';text-align:center;text-anchor:middle"
-         id="tspan6415">powered by</tspan><tspan
-         sodipodi:role="line"
-         x="97.549309"
-         y="1044.3124"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00000191px;line-height:100%;font-family:'White Rabbit';-inkscape-font-specification:'White Rabbit';text-align:center;letter-spacing:0.20000002px;text-anchor:middle"
-         id="tspan6417">Chuck's beard</tspan><tspan
-         sodipodi:role="line"
-         x="97.44931"
-         y="1064.3124"
-         id="tspan6413"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00000191px;line-height:100%;font-family:'White Rabbit';-inkscape-font-specification:'White Rabbit';text-align:center;text-anchor:middle" /></text>
+         x="99.209885"
+         y="1040.1243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.50000191px;line-height:109.00000334%;font-family:Piedra;-inkscape-font-specification:Piedra;text-align:center;letter-spacing:0px;text-anchor:middle"
+         id="tspan6603">beard grease</tspan></text>
   </g>
 </svg>
