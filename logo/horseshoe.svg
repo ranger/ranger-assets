@@ -16,8 +16,8 @@
    id="svg4241"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="horseshoe1.svg"
-   inkscape:export-filename="/home/hut/g4889.png"
+   sodipodi:docname="horseshoe.svg"
+   inkscape:export-filename="/home/hut/horseshoe.png"
    inkscape:export-xdpi="160"
    inkscape:export-ydpi="160">
   <defs
@@ -58,6 +58,38 @@
          result="composite2"
          id="feComposite5049" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5084">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5086" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5088" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur5090" />
+      <feOffset
+         dx="4"
+         dy="4"
+         result="offset"
+         id="feOffset5092" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5094" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,9 +106,9 @@
      showgrid="false"
      units="cm"
      inkscape:window-width="1916"
-     inkscape:window-height="1056"
+     inkscape:window-height="1022"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1086"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4246">
@@ -97,15 +129,16 @@
      transform="translate(0,-827.36227)"
      style="display:inline">
     <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5084)"
        id="path4789"
        cx="112.5"
        cy="939.86224"
-       rx="111.5"
-       ry="111.50001" />
+       rx="102.40863"
+       ry="102.40864" />
     <g
        id="g4889"
-       style="filter:url(#filter5039)">
+       style="filter:url(#filter5039)"
+       transform="matrix(0.91846304,0,0,0.91846304,9.1729082,76.633512)">
       <g
          id="g4860">
         <a
