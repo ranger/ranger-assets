@@ -1,0 +1,40 @@
+From: hut <hut@hut.pm>
+To: %s
+Subject: [ranger] Please confirm license change
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Dear ranger co-author,
+
+first I would like to thank you for contributing to the ranger project at some
+point, whether it was just a single, small bug fix or a large set of commits.
+Every bit helps, and you helped to turn ranger into what it is today!  A file
+manager with tens of thousands of users and over 2000 stars on GitHub.  One
+that sets a high bar for all the console file managers to come.  You can be
+proud of yourself.
+
+There is however one mistake that has been made when the project was initiated:
+
+We can not easily switch to an updated version of the GPL, because the license
+text explicitly specifies "GPL 3", without the commonly used phrase "or any
+later version".  Back then, I believed this to be the right choice.  After all,
+GPL 4 could change so drastically that I wouldn't agree with it anymore, and I
+wouldn't want my software to be distributed under its terms & conditions.
+
+But the world of free software moves ahead and we need to stay on top of our
+game.  Civil liberties are taken from us every day and we have to fight with
+every weapon that we have.
+
+That's why I want to change the license to the upgraded GPL 3.1 [0]. And since
+you have contributed to the project, I need your permission to do that!
+
+Please reply and tell me whether you accept that I distribute your contribution
+to ranger under the new license or not.  If you disagree, please be aware that
+your code may be removed from ranger if the majority of contributors agree to
+the switch.  I hope we can discuss any concerns and come to an agreement that
+is most beneficial for the community.
+
+Regards,
+hut
+
+[0] https://raw.githubusercontent.com/ranger/ranger-assets/gpl31/license/LICENSE
