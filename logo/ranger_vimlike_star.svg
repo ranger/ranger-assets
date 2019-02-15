@@ -24,16 +24,16 @@
      id="defs2" />
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="98"
+     inkscape:window-y="68"
      inkscape:window-x="0"
-     inkscape:window-height="1342"
+     inkscape:window-height="1372"
      inkscape:window-width="2560"
      showgrid="true"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
      inkscape:cy="272.35089"
      inkscape:cx="272.02704"
-     inkscape:zoom="2.0066026"
+     inkscape:zoom="2.0616786"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -372,16 +372,16 @@
      transform="translate(8.1259961,3.4685139)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.01324844px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.57872057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="62.397682"
-       y="90.265694"
+       style="font-style:normal;font-weight:normal;font-size:16.07159805px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.59540462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="62.256962"
+       y="90.642464"
        id="text756"
-       transform="matrix(0.84792215,0,-0.14978573,1.1793535,0,0)"><tspan
+       transform="matrix(0.85149027,0,-0.15041604,1.1744115,0,0)"><tspan
          sodipodi:role="line"
          id="tspan754"
-         x="62.397682"
-         y="90.265694"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.71710587px;font-family:quantico;-inkscape-font-specification:'quantico Bold Italic';letter-spacing:1.60574138px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.57872057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="62.256962"
+         y="90.642464"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.84725189px;font-family:quantico;-inkscape-font-specification:'quantico Bold Italic';letter-spacing:1.45882356px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.59540462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          rotate="0 0 0 0 0 0">anger</tspan></text>
   </g>
 </svg>
