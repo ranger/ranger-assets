@@ -41,7 +41,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      units="px"
      showguides="false"
      inkscape:snap-smooth-nodes="false"
@@ -55,8 +55,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid16"
-       originx="0.082664212"
-       originy="-2.1820087"
+       originx="0.08266401"
+       originy="-2.182035"
        enabled="true"
        visible="false" />
   </sodipodi:namedview>
@@ -289,7 +289,7 @@
   </g>
   <g
      style="display:inline"
-     transform="translate(8.1259962,3.4685194)"
+     transform="translate(8.1259961,3.4685139)"
      inkscape:label="r"
      id="g5201"
      inkscape:groupmode="layer">
@@ -310,7 +310,7 @@
      inkscape:groupmode="layer"
      id="g1852"
      inkscape:label="r shadow"
-     transform="translate(8.1259962,3.4685194)"
+     transform="translate(8.1259961,3.4685139)"
      style="display:inline">
     <g
        id="g1850"
@@ -332,7 +332,7 @@
   </g>
   <g
      style="display:inline"
-     transform="translate(8.1259962,3.4685194)"
+     transform="translate(8.1259961,3.4685139)"
      inkscape:label="r highlight"
      id="g1881"
      inkscape:groupmode="layer">
@@ -368,20 +368,20 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="anger"
-     transform="translate(8.1259962,3.4685194)"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(8.1259961,3.4685139)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.11769104px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.6085844;stroke-miterlimit:4;stroke-dasharray:none"
-       x="62.146854"
-       y="90.940369"
+       style="font-style:normal;font-weight:normal;font-size:16.01324844px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.57872057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="62.397682"
+       y="90.265694"
        id="text756"
-       transform="matrix(0.85431167,0,-0.15091444,1.170533,0,0)"><tspan
+       transform="matrix(0.84792215,0,-0.14978573,1.1793535,0,0)"><tspan
          sodipodi:role="line"
          id="tspan754"
-         x="62.146854"
-         y="90.940369"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.9500618px;font-family:quantico;-inkscape-font-specification:'quantico Bold Italic';letter-spacing:1.61621451px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.6085844;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="62.397682"
+         y="90.265694"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.71710587px;font-family:quantico;-inkscape-font-specification:'quantico Bold Italic';letter-spacing:1.60574138px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.57872057;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          rotate="0 0 0 0 0 0">anger</tspan></text>
   </g>
 </svg>
