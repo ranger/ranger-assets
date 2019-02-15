@@ -29,11 +29,11 @@
      inkscape:window-height="1372"
      inkscape:window-width="2560"
      showgrid="true"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g971"
      inkscape:document-units="px"
-     inkscape:cy="236.22657"
-     inkscape:cx="313.52442"
-     inkscape:zoom="2.0616786"
+     inkscape:cy="237.27714"
+     inkscape:cx="220.42018"
+     inkscape:zoom="1.4578269"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -41,7 +41,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      units="px"
      showguides="false"
      inkscape:snap-smooth-nodes="false"
@@ -275,7 +275,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(8.1259961,3.4685139)"
      inkscape:label="r"
      id="g5201"
@@ -298,7 +298,7 @@
      id="g1852"
      inkscape:label="r shadow"
      transform="translate(8.1259961,3.4685139)"
-     style="display:inline">
+     style="display:none">
     <g
        id="g1850"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.49996185px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:0.22958428;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -318,7 +318,7 @@
        id="text5187-4" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(8.1259961,3.4685139)"
      inkscape:label="r highlight"
      id="g1881"
@@ -374,7 +374,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="r anger serif"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.40636253px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.97705841;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
@@ -393,7 +393,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="R"
-     style="display:none">
+     style="display:inline">
     <g
        aria-label="r"
        transform="matrix(1.0525071,0,0,1.0643937,-12.99919,-3.1270736)"
@@ -408,7 +408,7 @@
     </g>
   </g>
   <g
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      inkscape:label="R shadow"
      id="g1585"
      inkscape:groupmode="layer">
@@ -429,7 +429,7 @@
      inkscape:groupmode="layer"
      id="g1609"
      inkscape:label="R highlight"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
     <g
        aria-label="r"
        transform="matrix(1.0525071,0,0,1.0643937,-12.99919,-3.1270736)"
@@ -471,6 +471,26 @@
          x="63.81945"
          y="88.670486"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.99039459px;font-family:Quantico;-inkscape-font-specification:'Quantico Bold';letter-spacing:0.84666669px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.87014246;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         rotate="0 0 0 0 0 0">anger</tspan></text>
+  </g>
+  <g
+     transform="translate(8.1259961,3.4685139)"
+     style="display:inline"
+     inkscape:label="R anger serif"
+     id="g971"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.64867783px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.4979167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       x="62.567322"
+       y="88.857384"
+       id="text756-3"
+       transform="matrix(0.8514903,0,-0.24498718,1.1744115,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan754-0"
+         x="62.567322"
+         y="88.857384"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.59535217px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Bold Italic';letter-spacing:1.32291675px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.4979167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          rotate="0 0 0 0 0 0">anger</tspan></text>
   </g>
   <g
