@@ -13,9 +13,9 @@
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    id="svg8"
    version="1.1"
-   viewBox="0 0 145.92721 134.91077"
-   height="509.89896"
-   width="551.53595"
+   viewBox="0 0 141.92134 133.88886"
+   height="506.03662"
+   width="536.39563"
    inkscape:export-filename="/home/hut/rangerlogo4.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -28,10 +28,10 @@
      inkscape:window-height="1372"
      inkscape:window-width="2560"
      showgrid="true"
-     inkscape:current-layer="g5201"
+     inkscape:current-layer="layer3"
      inkscape:document-units="mm"
-     inkscape:cy="248.32873"
-     inkscape:cx="453.79775"
+     inkscape:cy="275.435"
+     inkscape:cx="302.16774"
      inkscape:zoom="1.5692163"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -46,12 +46,13 @@
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-grids="false"
-     inkscape:bbox-nodes="false">
+     inkscape:bbox-nodes="false"
+     inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid16"
-       originx="-6.5806538"
-       originy="-9.6187359"
+       originx="-7.1217947"
+       originy="-10.075823"
        enabled="true"
        visible="false" />
   </sodipodi:namedview>
@@ -71,21 +72,21 @@
      inkscape:label="star"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-6.5806547,-152.47048)"
+     transform="translate(-7.1217993,-153.0353)"
      style="display:inline">
     <path
-       transform="matrix(2.1340501,0,0,2.1186965,-38.131875,148.34445)"
-       style="fill:#ff7f12;fill-opacity:1;stroke:#000000;stroke-width:2.48860407;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#ff7f12;fill-opacity:1;stroke:#000000;stroke-width:2.11531353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        inkscape:transform-center-x="-0.26438067"
        inkscape:transform-center-y="-6.4971388"
        d="M 74.083334,64.166669 54.439908,60.867231 34.799645,64.185437 31.867444,44.483846 22.642468,26.830227 40.473694,17.953413 54.412609,3.7246704 68.365113,17.940088 l 17.8397,8.859772 -9.208105,17.662426 z"
        id="path10"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc"
+       transform="matrix(2.1340501,0,0,2.1186965,-38.131875,148.34445)" />
   </g>
   <g
      style="display:none"
-     transform="translate(-6.5806547,-152.47048)"
+     transform="translate(-7.1217993,-153.0353)"
      id="g5156"
      inkscape:groupmode="layer"
      inkscape:label="star 2">
@@ -99,7 +100,7 @@
      inkscape:label="star 3"
      inkscape:groupmode="layer"
      id="g5166"
-     transform="translate(-6.5806547,-152.47048)"
+     transform="translate(-7.1217993,-153.0353)"
      style="display:none">
     <g
        transform="matrix(1.569376,0,0,1.569376,0.3933721,140.92452)"
@@ -118,7 +119,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="r"
-     transform="translate(1.4626832,1.6969958)"
+     transform="translate(0.9215377,1.1321731)"
      style="display:none">
     <path
        style="display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -129,18 +130,18 @@
   </g>
   <g
      style="display:inline"
-     transform="translate(1.4626832,1.6969958)"
+     transform="translate(0.9215377,1.1321731)"
      inkscape:label="r fira"
      id="g5201"
      inkscape:groupmode="layer">
     <g
        aria-label="r"
-       transform="scale(1.1004637,0.90870783)"
+       transform="matrix(1.1004637,0,0,0.90870783,0,0.52916667)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.49996185px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="text5187">
       <path
-         d="M 92.5145,27.511614 C 77.942431,28.810447 55.326145,49.443275 47.989615,67.012334 L 48.540027,33.087788 45.174022,29.011487 H 18.653869 l -3.366005,4.076301 v 12.11939 l 3.366005,4.076301 h 10.148657 l -0.04723,79.073241 3.366005,4.0763 h 12.797331 l 4.808579,-30.54358 C 53.522124,77.784561 73.014775,55.075477 84.59877,53.144811 v 14.651158 l 3.366005,4.076301 h 12.574645 l 3.36601,-4.076301 V 28.779945 c 0,0 -4.459282,-1.886161 -11.39093,-1.268331 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:193.06658936px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M 92.5145,28.093943 C 77.942431,29.392776 55.326145,50.025604 47.989615,67.594663 L 48.540027,33.670117 45.174022,29.593816 H 18.653869 l -3.366005,4.076301 v 12.11939 l 3.366005,4.076301 h 10.148657 l -0.04723,79.073242 3.366005,4.0763 h 12.797331 l 4.808579,-30.54358 C 53.522124,78.36689 73.014775,55.657806 84.59877,53.72714 v 14.651158 l 3.366005,4.076301 h 12.574645 l 3.36601,-4.076301 V 29.362274 c 0,0 -4.459282,-1.886161 -11.39093,-1.268331 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:193.06658936px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.4979167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          id="path5211"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scccccccccccsccccccs" />
@@ -150,20 +151,20 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="anger"
-     transform="translate(1.4626832,1.6969958)"
+     transform="translate(0.9215377,1.1321731)"
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.44583416px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.12598085;stroke-miterlimit:4;stroke-dasharray:none"
-       x="68.540718"
-       y="99.388939"
+       style="font-style:normal;font-weight:normal;font-size:15.50766087px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.4979167;stroke-miterlimit:4;stroke-dasharray:none"
+       x="60.541744"
+       y="91.653099"
        id="text756"
-       transform="matrix(0.94176377,0,-0.05052481,1.0618374,0,0)"><tspan
+       transform="matrix(0.86974454,0,-0.04666106,1.1497629,0,0)"><tspan
          sodipodi:role="line"
          id="tspan754"
-         x="68.540718"
-         y="99.388939"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.99056053px;font-family:quantico;-inkscape-font-specification:'quantico Bold Italic';letter-spacing:0.82519615px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.12598085;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="60.541744"
+         y="91.653099"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.58940506px;font-family:quantico;-inkscape-font-specification:'quantico Bold Italic';letter-spacing:1.55504322px;writing-mode:lr-tb;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:4.4979167;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
          rotate="0 0 0 0 0 0">anger</tspan></text>
   </g>
 </svg>
