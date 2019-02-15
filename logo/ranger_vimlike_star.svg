@@ -30,9 +30,9 @@
      showgrid="true"
      inkscape:current-layer="g5201"
      inkscape:document-units="mm"
-     inkscape:cy="92.973667"
-     inkscape:cx="176.34484"
-     inkscape:zoom="1.1011986"
+     inkscape:cy="155.90459"
+     inkscape:cx="357.0346"
+     inkscape:zoom="1.5692163"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,11 +139,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.49996185px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="text5187">
       <path
-         d="m 92.5145,27.511614 c -16.41066,0 -37.188355,27.076511 -44.524885,44.64557 L 48.540027,33.087788 45.174022,29.011487 H 18.653869 l -3.366005,4.076301 v 12.11939 l 3.366005,4.076301 h 10.148657 l -0.04723,79.073241 3.366005,4.0763 h 14.239905 l 3.366005,-4.0763 V 101.88944 C 54.360812,86.637179 73.014775,55.075477 84.59877,53.144811 v 14.651158 l 3.366005,4.076301 h 12.574645 l 3.36601,-4.076301 V 28.779945 c 0,0 -4.440533,-1.268331 -11.39093,-1.268331 z"
+         d="m 92.5145,27.511614 c -16.41066,0 -37.188355,27.076511 -44.524885,44.64557 L 48.540027,33.087788 45.174022,29.011487 H 18.653869 l -3.366005,4.076301 v 12.11939 l 3.366005,4.076301 h 10.148657 l -0.04723,79.073241 3.366005,4.0763 h 12.797331 l 4.808579,-30.54358 C 52.931936,81.533371 73.014775,55.075477 84.59877,53.144811 v 14.651158 l 3.366005,4.076301 h 12.574645 l 3.36601,-4.076301 V 28.779945 c 0,0 -4.440533,-1.268331 -11.39093,-1.268331 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:193.06658936px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          id="path5211"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="scccccccccccccccccccs" />
+         sodipodi:nodetypes="scccccccccccsccccccs" />
     </g>
   </g>
   <g
