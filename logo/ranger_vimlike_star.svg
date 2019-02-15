@@ -31,9 +31,9 @@
      showgrid="true"
      inkscape:current-layer="layer6"
      inkscape:document-units="px"
-     inkscape:cy="256.58018"
-     inkscape:cx="3.1665889"
-     inkscape:zoom="0.72891346"
+     inkscape:cy="263.20563"
+     inkscape:cx="292.83606"
+     inkscape:zoom="1.0308393"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -364,16 +364,16 @@
      transform="translate(0,-4.117833e-6)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.2196064px;line-height:1.25;font-family:'Bliss Pro';-inkscape-font-specification:'Bliss Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:3.68586063;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       x="71.186386"
-       y="117.97605"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.2196064px;line-height:1.25;font-family:'Bliss Pro';-inkscape-font-specification:'Bliss Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:2.64583349;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="76.037262"
+       y="117.46762"
        id="text4636"
        transform="matrix(0.96080742,0,-0.16894664,1.0407913,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4634"
-         x="71.186386"
-         y="117.97605"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.39868927px;font-family:'Kazmann Sans';-inkscape-font-specification:'Kazmann Sans';letter-spacing:0px;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:3.68586063;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">anger</tspan></text>
+         x="76.037262"
+         y="117.46762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.39868927px;font-family:'Kazmann Sans';-inkscape-font-specification:'Kazmann Sans';letter-spacing:0.39687502px;fill:#d0d0cf;fill-opacity:1;stroke:#000000;stroke-width:2.64583349;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers">anger</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
